@@ -1,6 +1,10 @@
-Crestline Technologies — Company CMS
+# Crestline Technologies — Company CMS
 
-A modern and dynamic Company Website & Content Management System built with Laravel 12. The project includes a public-facing company website and a centralized admin dashboard for managing website content.
+A modern and dynamic **Company Website & Content Management System** built with **Laravel 12, PHP, MySQL, Blade, Tailwind CSS, and Alpine.js**.
+
+The project includes a responsive public company website and a centralized admin dashboard for managing website content dynamically.
+
+--
 
 ### Homepage
 
@@ -17,70 +21,6 @@ A modern and dynamic Company Website & Content Management System built with Lara
 ### Products
 
 <img width="1366" height="768" alt="cms-image-3" src="https://github.com/user-attachments/assets/d403ba40-98dc-4a27-a058-e6fbffdd30cf" />
-
-
-
-# Crestline Technologies — Company CMS
-
-A modern and dynamic **Company Website & Content Management System** built with **Laravel 12, PHP, MySQL, Blade, Tailwind CSS, and Alpine.js**.
-
-The project includes a responsive public company website and a centralized admin dashboard for managing website content dynamically.
-
----
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-
-![Crestline Technologies Homepage](screenshots/homepage.png)
-
-### ℹ️ About Us
-
-![About Us](screenshots/about.png)
-
-### 💼 Services
-
-![Services](screenshots/services.png)
-
-### 📦 Products
-
-![Products](screenshots/products.png)
-
-### 🚀 Projects
-
-![Projects](screenshots/projects.png)
-
-### 📝 Blog
-
-![Blog](screenshots/blog.png)
-
-### 📞 Contact Us
-
-![Contact Us](screenshots/contact.png)
-
-### 🔐 Admin Login
-
-![Admin Login](screenshots/admin-login.png)
-
-### 📊 Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### ⚙️ Services Management
-
-![Services Management](screenshots/admin-services.png)
-
-### 📦 Products Management
-
-![Products Management](screenshots/admin-products.png)
-
-### 🚀 Projects Management
-
-![Projects Management](screenshots/admin-projects.png)
-
-### 📝 Blog Management
-
-![Blog Management](screenshots/admin-blog.png)
 
 <br><br><br>
 
